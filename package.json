@@ -1,0 +1,22 @@
+{
+  "name": "csjianghuizhong",
+  "version": "1.0.0",
+  "description": "jianghuizhong",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpnpay/csjianghuizhong.git"
+  },
+  "keywords": [
+    "jhz0505510207"
+  ],
+  "author": "vpnpay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpnpay/csjianghuizhong/issues"
+  },
+  "homepage": "https://github.com/vpnpay/csjianghuizhong#readme"
+}
